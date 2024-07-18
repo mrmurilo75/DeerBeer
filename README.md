@@ -1,3 +1,8 @@
+# Preview
+This is a ongoing project! If you would like to see the first prototype, [click here!](https://mrmurilo75.github.io/DeerBeer/preview/)
+
+---
+
 # Deer Beer
 
 An awesome card game to make everyone drunk at your parties!
